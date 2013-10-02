@@ -1,0 +1,5 @@
+./idea
+.idea
+xhprof
+tools/vagrant/.vagrant
+./tools/vagrant/.vagrant
